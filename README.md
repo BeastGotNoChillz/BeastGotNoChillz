@@ -3,7 +3,6 @@
 - Currently learnin' React, Python
 - Bussiness Email :- adityabam069@yahoo.com
 - he/him
-- 17
 
 <!---
 BeastGotNoChillz/BeastGotNoChillz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
