@@ -1,7 +1,7 @@
 - Aditya Bam
 - Web development💻
 - Currently learnin' React, Python
-- Bussiness Email :- adityabam069@yahoo.com
+- Bussiness Email :- adityabam069@gmail.com
 - he/him
 
 <!---
